@@ -1,20 +1,22 @@
 /*
 
 
-a:hover {
-	color: #409aa9;
-	text-decoration: none;
-}
-.btn-primary {
-	background-color: #25333A;
-	color: #FFFFFF;
-	border-color: #409AA9;
-	font-weight: 100;
-}
-.btn-primary:hover {
-	background-color: #409AA9;
-	border-color: #409AA9;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 */
 body {
 	font-family: 'Playfair Display', serif;
@@ -24,17 +26,113 @@ body {
 
 
 }
-
 h1, h5, h3 {
 	font-family: 'Fira Sans', sans-serif;
 }
-
 a {
 	color: #4B5053;
 }
-
-
 a:hover {
 	color: #E3B5D9;
 	text-decoration: none;
+}
+.btn-primary {
+	background-color: #E3B5D9;
+	color: #5C5C5C;
+	border-color: #eeeeee;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #E3B5D9;
+	border-color: #E3B5D9;
+}
+
+.unsplash-header {
+	background-color: #E3B5D9;
+	color: #5C5C5C;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.unsplash-header h1 small {
+	font-size: .35em;
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
+}
+
+.unsplash-header a {
+	color: #5C5C5C;
+	text-decoration: none;
+	
+}
+
+.unsplash-header a:hover {
+	color: #5C5C5C;
+	text-decoration: none;
+}
+
+
+.unsplash-footer {
+	background-color: #E3B5D9;	
+	border-top: solid 5px #5C5C5C;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 2em;
+	color: #5C5C5C;
+
+}
+
+.unsplash-home-page-intro {
+	background-color: #E3B5D9;
+	padding:3em 0;
+	color: #5C5C5C;
+	margin-bottom: 2em;
+}
+
+.unsplash-navigation {
+	background-color: #E3B5D9;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}
+
+.unsplash-navigation .breadcrumb {
+	background-color: #eeeeee;
+	margin: 0;
+	color: #5C5C5C;
+}
+
+.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+.unsplash-navigation .breadcrumb li.active {
+	color: #5C5C5C;
+	font-weight: 400;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #5C5C5C;
+}
+
+
+dt {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 1.75em;
+}
+
+dd strong {
+	font-size: 2em;
+	font-weight: 100;
+}
+
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-size: .8em;
+	font-weight: 100;
 }

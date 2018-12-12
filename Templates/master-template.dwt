@@ -19,10 +19,13 @@
   </head>
   <body>
     <!-- TemplateBeginEditable name="master-temp-editable-region" -->
+	  
+	  <div class="unsplash-header">
     <div class="container">
-      <h1>Islam <small>by Savannah Vizzerra</small></h1>
-      <p> [my mission statement goes here]</p>
+		<h1><a href="../images/index.html">Islam <small>by Savannah Vizzerra</small></a></h1>
+      <p> A salaam alaikum! Welcome to my site! Islam is a beautiful religion, yet it's often portrayed as militant, oppressive and worldy in the media. As a result, there are many misconceptions about the religion. Education and concersation is the key to understanding. To learn more about the values, history and challenges of Islam click on any of the cards!</p>
     </div>
+	  </div>
 	  
 	  
 	  
