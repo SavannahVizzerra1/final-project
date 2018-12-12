@@ -19,8 +19,18 @@
       <h1>Islam <small>by Savannah Vizzerra</small></h1>
       <p> [my mission statement goes here]</p>
     </div>
-    <p>[footer]</p>
-    <!-- TemplateEndEditable --><!-- Optional JavaScript --> 
+<div class="unsplash-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-sm-6">
+            Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> by Savannah Vizzerra
+          </div>
+          <div class="col-12 col-sm-6 text-right">
+            Connect with me: <a href="https://www.linkedin.com/in/savannahnvizzerra/" target="_blank"><i class="fab fa-linkedin"></i></a> <a href="https://www.facebook.com/savannah.vizzerra" target="_blank"><i class="fab fa-facebook"></i></a> <a href="https://www.instagram.com/savannahvizzerra/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a> <a href="https://github.com/SavannahVizzerra1" target="_blank"><i class="fab fa-github-square"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>    <!-- TemplateEndEditable --><!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
