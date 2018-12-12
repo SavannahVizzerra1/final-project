@@ -86,18 +86,3 @@ a:hover {
 .breadcrumb-item+.breadcrumb-item::before {
 	color: #5C5C5C;
 }
-dt {
-	font-family: 'Fira Sans', sans-serif;
-	font-size: 1.75em;
-}
-dd strong {
-	font-size: 2em;
-	font-weight: 100;
-}
-dd {
-	margin: 0;
-	padding: 0;
-	line-height: 1.5em;
-	font-size: .8em;
-	font-weight: 100;
-}

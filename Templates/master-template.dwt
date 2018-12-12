@@ -19,19 +19,21 @@
   </head>
   <body>
     <!-- TemplateBeginEditable name="master-temp-editable-region" -->
+	  <div class="unsplash-header">
+      <div class="container">
+        <h1><a href="../index.html">Islam <small>by Savannah Vizzerra</small></a></h1>
+      </div>
+    </div>
 	  
 	  
-	  <!-- TemplateBeginIf cond="_document['home-page-intro']" -->
     <div class="unsplash-home-page-intro">
       <div class="container">
-		  <h1><a href="../images/index.html">Islam <small>by Savannah Vizzerra</small></a></h1>
         <div class="row">
           <div class="col-3 col-md-2 col-lg-1">
-            <a href="../images/savannah-vizzerra copy.jpg">
-		    </a>
+            <img src="../Images/savannah-vizzerra.jpg" alt="savannah" class="img-fluid rounded-circle"/>
           </div>
           <div class="col-9 col-md-10 col-lg-11">
-            <p>A salaam alaikum! Welcome to my site! Islam is a beautiful religion, yet it's often portrayed as militant, oppressive and worldy in the media. As a result, there are many misconceptions about the religion. Education and concersation is the key to understanding. To learn more about the values, history and challenges of Islam click on any of the cards!</p>
+            <p>A salaam alaikum! Welcome to my site! Islam is a beautiful religion, yet it's often portrayed as militant, oppressive and worldy in the media. As a result, there are many misconceptions about it. Education and conversation are the keys to understanding. To learn more about the values, history and challenges of Islam click on any of the cards!</p>
           </div>
         </div>
       </div>
@@ -39,25 +41,31 @@
     <!-- TemplateEndIf --> 
 	  
 	  
+	 
+    <div class="unsplash-navigation">
+      <div class="container">
+        <nav>
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../images/index.html">Home</a></li>
+            <!-- TemplateBeginEditable name="breadcrumb-trail" -->
+            <li class="breadcrumb-item">Inactive Link</li>
+            <li class="breadcrumb-item active">Active Link</li>
+            <!-- TemplateEndEditable -->
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- TemplateEndIf -->
+    <div class="container">
+      <!-- TemplateBeginEditable name="master-content" -->
+      <p>This is where content goes.</p>
+      <!-- TemplateEndEditable -->
+    </div>
 	  
 	  
-	  <!-- TemplateBeginIf cond="navigation" -->
 	  
 	  
 	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-
-	  
-	  
-	  <!-- TemplateEndEditable -->
 	  <div class="unsplash-footer">
       <div class="container">
         <div class="row">
