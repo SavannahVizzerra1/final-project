@@ -1,0 +1,40 @@
+/*
+
+
+a:hover {
+	color: #409aa9;
+	text-decoration: none;
+}
+.btn-primary {
+	background-color: #25333A;
+	color: #FFFFFF;
+	border-color: #409AA9;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #409AA9;
+	border-color: #409AA9;
+}
+*/
+body {
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
+	background-color: #eeeeee;
+
+
+
+}
+
+h1, h5, h3 {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+	color: #4B5053;
+}
+
+
+a:hover {
+	color: #E3B5D9;
+	text-decoration: none;
+}
