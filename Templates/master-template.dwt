@@ -20,12 +20,34 @@
   <body>
     <!-- TemplateBeginEditable name="master-temp-editable-region" -->
 	  
-	  <div class="unsplash-header">
-    <div class="container">
-		<h1><a href="../images/index.html">Islam <small>by Savannah Vizzerra</small></a></h1>
-      <p> A salaam alaikum! Welcome to my site! Islam is a beautiful religion, yet it's often portrayed as militant, oppressive and worldy in the media. As a result, there are many misconceptions about the religion. Education and concersation is the key to understanding. To learn more about the values, history and challenges of Islam click on any of the cards!</p>
+	  
+	  <!-- TemplateBeginIf cond="_document['home-page-intro']" -->
+    <div class="unsplash-home-page-intro">
+      <div class="container">
+		  <h1><a href="../images/index.html">Islam <small>by Savannah Vizzerra</small></a></h1>
+        <div class="row">
+          <div class="col-3 col-md-2 col-lg-1">
+            <a href="../images/IMG_2871.JPG" alt="Ralph M. Rivera" class="img-fluid rounded-circle">
+			  </a>
+          </div>
+          <div class="col-9 col-md-10 col-lg-11">
+            <p>A salaam alaikum! Welcome to my site! Islam is a beautiful religion, yet it's often portrayed as militant, oppressive and worldy in the media. As a result, there are many misconceptions about the religion. Education and concersation is the key to understanding. To learn more about the values, history and challenges of Islam click on any of the cards!</p>
+          </div>
+        </div>
+      </div>
     </div>
-	  </div>
+    <!-- TemplateEndIf --> 
+	  
+	  
+	  
+	  
+	  <!-- TemplateBeginIf cond="navigation" -->
+	  
+	  
+	  
+	  
+	  
+	  
 	  
 	  
 	  
